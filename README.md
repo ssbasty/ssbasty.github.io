@@ -1,6 +1,6 @@
 # Soft Roboticist
-_Technical Skills_: MATLAB, Python, System Verilog, C programming, Arduino IDE
-_Simulation Tools_: SPICE Design suite, Multisim, Cadence Virtuoso PCB Design suite, Xilinx Vivado
+- _Technical Skills_: MATLAB, Python, System Verilog, C programming, Arduino IDE
+- _Simulation Tools_: SPICE Design suite, Multisim, Cadence Virtuoso PCB Design suite, Xilinx Vivado
 
 
 ## Education 
