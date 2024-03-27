@@ -8,8 +8,10 @@
 - **Others:** Microsoft tools, Canva Design, Technical Documentation
 
 ## Education 
-- M.S., Robotics & Autonomous Systems; Boston University (_Expected January 2025_)
-- B.E., Electronics & Communication Engineering; Visversvaraya Technological University (_August 2023_)
+- M.S., Robotics & Autonomous Systems
+  - _Boston University_ (_Expected January 2025_)
+- B.E., Electronics & Communication Engineering
+  - _Visversvaraya Technological University_ (_August 2023_)
 
 ## Projects
 -
