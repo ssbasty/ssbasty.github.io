@@ -15,6 +15,8 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
   - _Visversvaraya Technological University_ (_August 2023_)
 
 ## Projects
-- 
-
+- **Dextrous Slender Body Robot for Laparoscopic Applications (_February 2024 - Present_)**
+  - Building tendon driven bio-inspired (inspired by octopus feet 🐙) slender body continuum robot with integrated imaging element.
+  - Intended to enable visualization, spatial manipulation & maneuverability in surgically relevant biological environments.
+  - 
 
