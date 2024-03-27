@@ -1,4 +1,4 @@
-# Roboticist
+# Soft Roboticist
 
 ## Education 
 Boston University, MS
