@@ -24,7 +24,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
     Figure 1: Schematics of control system designed for the contiuum robot
   </p>
 
-![70AAE844-224B-4984-A3E4-B726B1EE0A4B](https://github.com/ssbasty/ssbasty.github.io/assets/102228956/49bea411-2a5a-4059-a76c-24b6f59dc93a)
+  ![70AAE844-224B-4984-A3E4-B726B1EE0A4B](https://github.com/ssbasty/ssbasty.github.io/assets/102228956/49bea411-2a5a-4059-a76c-24b6f59dc93a)
 
   <p align="center">
     Figure 2: Potential implementation of the soft actuator- a single soft actuator at the end of a catheter & multiple appended soft actuators 
