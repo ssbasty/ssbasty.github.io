@@ -1,4 +1,5 @@
 # Soft Roboticist
+Seeking opportunities to contribute and collaborate at the intersection of robotics and healthcare. 
 
 ## Skills
 - **Programming Languages:** Python, MATLAB, System Verilog, C 
