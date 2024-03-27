@@ -19,5 +19,5 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
   - Building tendon driven bio-inspired (inspired by octopus feet 🐙) slender body continuum robot with integrated imaging element by 3D printing silicone disc units.
   - Intended to enable visualization, spatial manipulation & maneuverability in surgically relevant biological environments.
     
-![Control schematic] (IMG_0034.jpeg)
+![Control schematic] (https://github.com/ssbasty/ssbasty.github.io/blob/4929ced241b518388a0398023c17bf39d3f13b58/IMG_0034.jpeg?raw=true)
 
