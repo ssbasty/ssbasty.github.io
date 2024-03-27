@@ -1,5 +1,5 @@
 # Soft Roboticist
-Seeking opportunities to contribute and collaborate at the intersection of robotics and healthcare. 
+Interested in applications of soft robotics to  surgery & rehabilitation. Seeking opportunities to contribute and collaborate at the intersection of robotics and healthcare. 
 
 ## Skills
 - **Programming Languages:** Python, MATLAB, System Verilog, C 
@@ -15,6 +15,6 @@ Seeking opportunities to contribute and collaborate at the intersection of robot
   - _Visversvaraya Technological University_ (_August 2023_)
 
 ## Projects
--
+- 
 
 
