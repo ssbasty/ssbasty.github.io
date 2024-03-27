@@ -1,1 +1,10 @@
-# ssbasty.github.io
+# Roboticist
+
+## Education 
+Boston University, MS
+
+## Projects
+yaay
+
+### Skills
+yaay
