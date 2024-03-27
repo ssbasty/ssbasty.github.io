@@ -3,7 +3,7 @@
 ## Skills
 - **Programming Languages:** Python, MATLAB, System Verilog, C 
 - **Simulation Tools:** SPICE, Multisim, Cadence Virtuoso Design Suite
-- **Robotics:** Circuit Design, Soft Robotics, Continuum Robots, Robot motion
+- **Robotics:** Circuit Design, Soft Robotics, Robot motion
 - **Natural Languages:** English, Konkani, Hindi 
 - **Others:** Microsoft tools, Canva Design, Technical Documentation
 
