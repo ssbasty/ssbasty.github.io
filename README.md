@@ -17,7 +17,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
 ## Projects
 - **Dextrous Slender Body Robot for Laparoscopic Applications (_February 2024 - Present_)**
   - Engineering a 3D printed bio-inspired (inspiration taken from  octopus feet 🐙) silicone slender body robot with an integrated visualization & imaging element.
-  - The final product intends to enable visualization, spatial manipulation & maneuverability in surgically relevant biological environments.
+  - The final product intends to enable visualization, spatial manipulation & maneuverability in surgically relevant biological environments while also being biocompatible in nature.
   - [Project Quad Chart](https://github.com/ssbasty/ssbasty.github.io/files/14782022/Dexterous.slender.body.robot.for.laparoscopic.applications.Quad.chart.presentation.2.pdf)
 
 
