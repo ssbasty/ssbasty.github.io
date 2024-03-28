@@ -32,7 +32,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
   - A NASA task load assessment (TLX) was performed to assess ergonomic performance & ease of use of the design.
   - [Project paper](https://github.com/ssbasty/ssbasty.github.io/files/14794544/Wrist.rehabilitation.robot.using.McKibben.actuators.controlled.by.EMG.pdf)
 
-![Design setup](https://github.com/ssbasty/ssbasty.github.io/assets/102228956/4b1fafa7-21b4-4d9d-b874-76c8af53f64d)
+    ![Design setup](https://github.com/ssbasty/ssbasty.github.io/assets/102228956/4b1fafa7-21b4-4d9d-b874-76c8af53f64d)
  <p align="center">
     Figure: Full device with actuators, circuit board, AD8226-based EMG sensors, solenoid, and air pump. 
   </p>
