@@ -34,7 +34,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
 
     ![Design setup](https://github.com/ssbasty/ssbasty.github.io/assets/102228956/4b1fafa7-21b4-4d9d-b874-76c8af53f64d)
  <p align="center">
-    Figure: Full device with actuators, circuit board, AD8226-based EMG sensors, solenoid, and air pump. 
+    Figure: Full device setup 
   </p>
 
   
