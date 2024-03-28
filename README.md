@@ -34,7 +34,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
   - [Project paper](https://github.com/ssbasty/ssbasty.github.io/files/14794544/Wrist.rehabilitation.robot.using.McKibben.actuators.controlled.by.EMG.pdf)
   <p align="center">
       <img width="350" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/4b1fafa7-21b4-4d9d-b874-76c8af53f64d" alt="Design setup">
-      <img width="295" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/42e9fcd5-c5b6-44fa-8163-87c729978633" alt="Presentation"> 
+      <img width="350" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/42e9fcd5-c5b6-44fa-8163-87c729978633" alt="Presentation"> 
   </p>  
   <p align="center">
     Figure: Setup & Presentation of the wrist rehabilitation robot
