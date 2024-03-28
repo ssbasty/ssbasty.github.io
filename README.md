@@ -20,9 +20,9 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
   - The final product intends to enable visualization, spatial manipulation & maneuverability in surgically relevant biological environments while also being biocompatible in nature.
   - [Project Quad Chart](https://github.com/ssbasty/ssbasty.github.io/files/14782022/Dexterous.slender.body.robot.for.laparoscopic.applications.Quad.chart.presentation.2.pdf)
 
-
-     ![70AAE844-224B-4984-A3E4-B726B1EE0A4B](https://github.com/ssbasty/ssbasty.github.io/assets/102228956/49bea411-2a5a-4059-a76c-24b6f59dc93a)
-
+  <p align="center">
+      <img width="500" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/2c8bbb09-6a23-4ec4-bb9b-fcff846b3a99" alt="pssible implementations">
+  </p>  
   <p align="center">
     Figure: Potential implementation of the soft actuator- a single soft actuator at the end of a catheter & multiple appended soft actuators 
   </p>
