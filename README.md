@@ -37,6 +37,6 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
       <img width="295" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/42e9fcd5-c5b6-44fa-8163-87c729978633" alt="Presentation"> 
   </p>  
   <p align="center">
-    Figure: Setup of the wrist rehabilitation robot & Presentation of the wrist rehabilitation robot
+    Figure: Setup & Presentation of the wrist rehabilitation robot
   </p>
   
