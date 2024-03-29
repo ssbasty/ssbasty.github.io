@@ -7,7 +7,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
 - **Robotics:** Circuit Design, Soft Robotics, Robot motion
 - **Natural Languages:** English, Konkani, Hindi 
 - **Others:** Microsoft tools, Canva Design, Technical Documentation
-- 
+  
 ### Education 
 - M.S., Robotics & Autonomous Systems
   - _Boston University_ (_Expected January 2025_)
