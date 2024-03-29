@@ -26,7 +26,6 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
     Figure: Potential implementations of the soft actuator
   </p>
   
-
 - **Wrist rehabilitation robot using McKibben actuators controlled by EMG (_October 2023 - December 2023_) (_Group project_)**
   - Built a silicone soft robot with McKibben flexible actuator that is actuated by Electromyography (EMG) signals from forearm operating a setup consisting of AD8226-based EMG sensors, Arduino Uno, McKibben actuators, MOSFET and Solenoids. (This project developed for my medical robotics class holds immense personal significance because when I was about seven years old, I had broken my elbow joint thus losing wrist function and I had to undergo long durations of physiotherapy to regain wrist function and the ability to write. This is my effort to make the rehabilitation process streamlined and faster. 😊)
   - Upon testing the system, a flexion angle of 35.42° for wrist movement was achieved which is close to the established 38° for normal functioning.
@@ -39,4 +38,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
   <p align="center">
     Figure: Setup & Presentation of the robot
   </p>
+  
+- **Soft robotic sleeve for haptic feedback for robot-assisted surgery (_October 2023 - December 2023_)**
+  - Engineered dual-inflation soft robotic sleeve with an LCD display for visual haptic feedback of force sensor readings during robot-assisted surgery.
   
