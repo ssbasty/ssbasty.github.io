@@ -9,8 +9,9 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
 - **Others:** Microsoft tools, Canva Design, Technical Documentation
 
 ### Experience
+-
 
-#### Education 
+### Education 
 - M.S., Robotics & Autonomous Systems
   - _Boston University_ (_Expected January 2025_)
 - B.E., Electronics & Communication Engineering
