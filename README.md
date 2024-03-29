@@ -23,7 +23,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
       <img width="350" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/2c8bbb09-6a23-4ec4-bb9b-fcff846b3a99" alt="pssible implementations">
   </p>  
   <p align="center">
-    Figure: Potential implementations of the soft actuator- a single soft actuator & multiple appended soft actuators
+    Figure: Potential implementations of the soft actuator
   </p>
   
 
@@ -37,6 +37,6 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
       <img width="350" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/42e9fcd5-c5b6-44fa-8163-87c729978633" alt="Presentation"> 
   </p>  
   <p align="center">
-    Figure: Setup & Presentation of the wrist rehabilitation robot
+    Figure: Setup & Presentation of the robot
   </p>
   
