@@ -46,4 +46,5 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
   - Engineered dual-inflation soft robotic sleeve with an LCD display for visual haptic feedback of force sensor readings during robot-assisted surgery.
   - Utilized MPRLS pressure sensors, Force Sensing Resistor and LCD display to act as control for the design.
   - Assessed performance of design using TLX resulting in a 20 point decrease in TLX score as compared to lack of haptic feedback in surgery.
-  
+  -[Project Paper](https://github.com/ssbasty/ssbasty.github.io/files/14819040/Soft.robotic.sleeve.for.haptic.feedback.for.robot-assisted.surgery.pdf)
+
