@@ -4,7 +4,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
 ## Skills
 - **Programming Languages:** Python, MATLAB, System Verilog, C 
 - **Simulation Tools:** SPICE, Multisim, Cadence Virtuoso Design Suite
-- **Robotics:** Circuit Design, Soft Robotics, Robot motion & control, Computer Aided Design (CAD)
+- **Robotics:** Soft Robotics, Robot motion planning & control, Computer Aided Design (CAD)
 - **Natural Languages:** English, Konkani, Hindi 
 - **Others:** Microsoft tools, Canva Design, Technical Documentation
 
