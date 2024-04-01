@@ -13,6 +13,11 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
     - Designed, prototyped, & soldered low power electronic circuitry deployed in bioreactors for production of hydrogen gas.
     - Programmed electronic software with 4 different types of sensors such as pressure, hydrogen, oxygen, temperature.
     - Utilized 5+ microcontrollers from Arduino family including Uno, Mega, Nano, Wifi Rev2, ethernet shield.
+  <p align="center">
+      <img width="600" alt="FCA3705C-FD7B-4E7B-AED0-52101725704C" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/92fca230-f37e-475c-9a22-0d21c82af6d0">
+  </p>  
+
+      
 
 ## Education 
 - M.S., Robotics & Autonomous Systems
