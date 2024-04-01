@@ -24,7 +24,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
       <img width="540" alt="schematic" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/92fca230-f37e-475c-9a22-0d21c82af6d0">
   </p>  
   <p align="center">
-    Figures: Small scale design & scaled up schematic of bioreactor electronics
+    Figures: Small scale design & scaled up schematic of bioreactor electronics that was assigned to me during the internship with the electronics division
   </p>
 
 ## Projects
