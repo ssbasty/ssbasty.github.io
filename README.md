@@ -1,5 +1,3 @@
-![Robotics](https://github.com/ssbasty/ssbasty.github.io/assets/102228956/7e40ef5f-8d95-4caa-9492-9203f9ed10b1)
-
 # Soft Roboticist
 Interested in applications of soft robotics to  surgery & rehabilitation. Seeking opportunities to contribute and collaborate at the intersection of robotics and healthcare. 
 
