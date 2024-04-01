@@ -10,6 +10,9 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
 
 ## Experience
 - **Electronics Intern - Hardware | Ossus Biorenewables Private Limited (_March - May 2023_)**
+    - Designed, prototyped, & soldered low power electronic circuitry deployed in bioreactors for production of hydrogen gas.
+    - Programmed electronic software with 4 different types of sensors such as pressure, hydrogen, oxygen, temperature.
+    - Utilized 5+ microcontrollers from Arduino family including Uno, Mega, Nano, Wifi Rev2, ethernet shield.
 
 ## Education 
 - M.S., Robotics & Autonomous Systems
