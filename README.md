@@ -39,7 +39,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
       <img width="350" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/42e9fcd5-c5b6-44fa-8163-87c729978633" alt="Presentation"> 
   </p>  
   <p align="center">
-    Figure: Setup & Presentation of the robot
+    Figures: Setup & Presentation of the robot
   </p>
   
 - **Soft robotic sleeve for haptic feedback for robot-assisted surgery (_October 2023 - December 2023_)**
@@ -47,4 +47,10 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
   - Utilized MPRLS pressure sensors, Force Sensing Resistor and LCD display to act as control for the design.
   - Assessed performance of design using TLX resulting in a 20 point decrease in TLX score as compared to lack of haptic feedback in surgery.
   - [Project Paper](https://github.com/ssbasty/ssbasty.github.io/files/14819040/Soft.robotic.sleeve.for.haptic.feedback.for.robot-assisted.surgery.pdf)
-
+<p align="center">
+      <img width = "350" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/edcbeb26-7eef-4195-9aa2-48673e69a578" alt="Design of the sleeve">
+      <img width = "350" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/8312342a-0b76-4e8a-ac8d-aebc8d8a7f22" alt="Testing of design">
+  </p>  
+  <p align="center">
+    Figures: Design of the sleeve & testing of design
+  </p>
