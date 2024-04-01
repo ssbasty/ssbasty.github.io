@@ -14,8 +14,10 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
     - Programmed electronic software with 4 different types of sensors such as pressure, hydrogen, oxygen, temperature.
     - Utilized 5+ microcontrollers from Arduino family including Uno, Mega, Nano, Wifi Rev2, ethernet shield.
   <p align="center">
-      <img width="600" alt="FCA3705C-FD7B-4E7B-AED0-52101725704C" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/92fca230-f37e-475c-9a22-0d21c82af6d0">
+      <img width="600" alt="schematic" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/92fca230-f37e-475c-9a22-0d21c82af6d0">
+      <img width= "500" scr="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/b5158c77-d78f-4f53-ba8b-c2cba358d022" alt="scalable electronics of a bioreactor)
   </p>  
+
 
       
 
