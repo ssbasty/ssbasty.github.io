@@ -8,6 +8,12 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
 - **Natural Languages:** English, Konkani, Hindi 
 - **Others:** Microsoft tools, Canva Design, Technical Documentation
 
+## Education 
+- M.S., Robotics & Autonomous Systems
+  - _Boston University_ (_Expected January 2025_)
+- B.E., Electronics & Communication Engineering
+  - _Visversvaraya Technological University_ (_August 2023_)
+
 ## Experience
 - **Electronics Intern - Hardware, Ossus Biorenewables Pvt. Ltd. (_March - May 2023_)**
     - Designed, prototyped, & soldered low power electronic circuitry deployed in bioreactors for production of hydrogen gas.
@@ -15,14 +21,8 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
     - Utilized 5+ microcontrollers from Arduino family including Uno, Mega, Nano, Wifi Rev2, ethernet shield.
   <p align="center">
       <img width="600" alt="schematic" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/92fca230-f37e-475c-9a22-0d21c82af6d0">
-      <img width= "500" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/b5158c77-d78f-4f53-ba8b-c2cba358d022" alt="scalable electronics of a bioreactor)
+      <img width= "500" src="https://github.com/ssbasty/ssbasty.github.io/assets/102228956/b5158c77-d78f-4f53-ba8b-c2cba358d022" alt="scalable electronics of a bioreactor">
   </p>  
-
-## Education 
-- M.S., Robotics & Autonomous Systems
-  - _Boston University_ (_Expected January 2025_)
-- B.E., Electronics & Communication Engineering
-  - _Visversvaraya Technological University_ (_August 2023_)
 
 ## Projects
 - **Dextrous Slender Body Robot for Laparoscopic Applications (_February 2024 - Present_)**
