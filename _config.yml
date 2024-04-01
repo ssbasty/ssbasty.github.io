@@ -1,6 +1,14 @@
 title: Shashank S Basty
 logo: /assets/img/IMG_1134.jpeg
-description: [View my LinkedIn profile](https://www.linkedin.com/in/shashank-shenoy-basty/)
+description: 
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
 show_downloads: false
 theme: jekyll-theme-minimal
