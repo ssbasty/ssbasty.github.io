@@ -1,7 +1,7 @@
 title: Shashank S Basty
 logo: /assets/img/IMG_1134.jpeg
-description: "The portfolio Shashank S Basty, graduate student at College of Engineering, BU."
-
+#description: "The portfolio Shashank S Basty, graduate student at College of Engineering, BU."
+github_username:  ssbasty
 
 show_downloads: false
 theme: jekyll-theme-minimal
