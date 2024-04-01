@@ -9,7 +9,7 @@ Interested in applications of soft robotics to  surgery & rehabilitation. Seekin
 - **Others:** Microsoft tools, Canva Design, Technical Documentation
 
 ## Experience
-- **Electronics Intern - Hardware| Ossus Biorenewables Private Limited (_March - May 2023_)**
+- **Electronics Intern - Hardware | Ossus Biorenewables Private Limited (_March - May 2023_)**
 
 ## Education 
 - M.S., Robotics & Autonomous Systems
